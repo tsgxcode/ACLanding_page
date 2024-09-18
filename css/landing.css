@@ -21,6 +21,7 @@
 
 .banner {
 	  position: fixed;
+	  font-size: small;
 	  border-bottom: 1px solid coral;
 	  border-right: 2px solid coral;
 	  border-top:0px; 	 
